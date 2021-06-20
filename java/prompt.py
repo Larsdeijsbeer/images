@@ -141,7 +141,7 @@ if mode not in ["echo", "env"]:
 is_echo = mode == "echo"
 is_env = mode == "env"
 
-default = "Java 11"
+default = "Java 16"
 entrypointMappings = {
     "Java 8": "java8",
     "Java 11": "java11",
